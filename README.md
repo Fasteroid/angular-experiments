@@ -1,2 +1,5 @@
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
-It will house all further self-studies and overtime experiments for my internship.
+# Angular Experiments
+
+This was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+
+This was an experiment to teach myself how the EventEmitter works.
