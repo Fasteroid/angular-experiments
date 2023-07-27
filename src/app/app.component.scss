@@ -1,0 +1,22 @@
+.center-items {
+    width: 100vw;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .bruh-box {
+        flex: 0.5 0.5;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+}
+
+.epic-button {
+    background-color: #ff0000;
+    padding: 20px;
+    margin: 20px;
+    height: initial;
+}
